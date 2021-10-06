@@ -17,4 +17,4 @@ Hydra |
 Zphisher |
 Sherlock |
 # Credits
-Creator and Developer: x04000
+Creator and Developer: #x04000
