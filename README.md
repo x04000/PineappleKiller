@@ -7,7 +7,7 @@ The author is not responsable for any damage
 ![alt_text](https://img.shields.io/github/downloads/x04000/PineappleKiller/total.svg)
 ![alt_text](https://img.shields.io/github/watchers/x04000/PineappleKiller.svg)
 # Info
-<p>A hacking panel to use hacking tools</p>
+A hacking panel to use hacking tools |
 Have custom tools, kali tools and other
 # Modules
 DoS |
