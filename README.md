@@ -10,7 +10,7 @@ The author is not responsable for any damage
 A hacking panel to use hacking tools |
 Have custom tools, kali tools and other
 # Modules
-DoS |
+| DoS |
 DDoS |
 Trafic view |
 Ping |
@@ -21,5 +21,7 @@ File modifier |
 Hydra |
 Zphisher |
 Sherlock |
+Kahoot Tools |
+JS-InjectionPineappleKiller |
 # Credits
 Creator and Developer: x04000
